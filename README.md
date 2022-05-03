@@ -1,2 +1,2 @@
 # pokedex
-Projeto Pokedex- sozinho
+Projeto Pokedex
